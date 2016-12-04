@@ -1,0 +1,7 @@
+base   ffxivicons
+author Rob Garfoot
+email  rob@garfoot.com
+date   2016-12-04
+name   FFXIV Icons
+desc   Add icons from FFXIV to your pages
+url    https://github.com/garfoot/ffxivicons_dokuwiki/
